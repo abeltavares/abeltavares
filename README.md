@@ -1,6 +1,6 @@
 Welcome to my GitHub! I specialize in turning data into actionable business insights.
 
-## What I Do
+### What I Do
 
 - 🔍 **Data Engineering**: Specializing in the architecture, creation, and optimization of data integration solutions to foster new business value.
 - 🧩 **System Integration & Orchestration**: Connecting technologies and orchestrating workflows to maximize efficiency and automation.
@@ -11,22 +11,22 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 - 🌐 **Agile & Global Collaboration**: Thriving in agile environments, contributing to cross-functional teams, and engaging in international projects.
 
 
-## Let's Collaborate
+### Let's Collaborate
 
 If you're interested in big data or business intelligence, I'd love to connect with you. Whether you have a project in mind or just want to chat about the latest in tech, feel free to reach out.
 
-## Stay Connected
+### Stay Connected
 
 - 📫 LinkedIn: [Abel Tavares](https://www.linkedin.com/in/abeltavares/)
 - ✉️ Need something? Shoot me an [email](mailto:abelst9@gmail.com).
 
-## Quotables
+### Quotables
 
 > 'Code is like humor. When you have to explain it, it’s bad.' – Cory House
 
 > 'In God we trust; all others bring data.' – W. Edwards Deming
 
-## Visitor Count
+### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/abeltavares/count.svg)
 
