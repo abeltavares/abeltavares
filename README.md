@@ -1,5 +1,3 @@
-# Abel Tavares - Business Data Analytics Engineer 🚀
-
 Welcome to my GitHub! I specialize in turning data into actionable business insights.
 
 ## What I Do
@@ -9,7 +7,7 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 - 💾 **Big Data & Performance**: Handling and optimizing big data technologies and performance tuning for high efficiency.
 - 📊 **Business Intelligence**: Developing BI solutions for strategic insights, leveraging Power BI and Tableau to drive business success.
 - 💻 **Coding**: Writing clean, efficient code in Python, SQL and VBA to automate and transform data processes.
-- ☁️ **Cloud & IaC**: Managing cloud-based solutions with AWS and automating infrastructure deployment using Terraform. Infrastructure as Code practices for robust and scalable systems.
+- ☁️ **Cloud & IaC**: Managing cloud-based solutions with AWS and automating infrastructure deployment using Terraform. 
 - 🌐 **Agile & Global Collaboration**: Thriving in agile environments, contributing to cross-functional teams, and engaging in international projects.
 
 
