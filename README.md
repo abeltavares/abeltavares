@@ -1,5 +1,3 @@
-# Abel Tavares
-
 ## 🚀 Business Data Analytics Engineer 📈
 
 ### 🛠️ Skills
