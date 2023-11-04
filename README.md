@@ -1,6 +1,6 @@
 Welcome to my GitHub! I specialize in turning data into actionable business insights.
 
-#### 💬 Ask me about #data #technology #business #finance
+#### 💬 Ask me about  #data  #technology #analytics #business #finance
 
 ### What I Do
 
