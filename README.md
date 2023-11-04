@@ -1,14 +1,16 @@
 Welcome to my GitHub! I specialize in turning data into actionable business insights.
 
+#### 💬 Ask me about #data #technology #business #finance
+
 ### What I Do
 
-- 🔍 **Data Engineering**: Specializing in the architecture, creation, and optimization of data integration solutions to foster new business value.
-- 🧩 **System Integration & Orchestration**: Connecting technologies and orchestrating workflows to maximize efficiency and automation.
-- 💾 **Big Data & Performance**: Handling and optimizing big data technologies and performance tuning for high efficiency.
-- 📊 **Business Intelligence**: Developing BI solutions for strategic insights, leveraging Power BI and Tableau to drive business success.
-- 💻 **Coding**: Writing clean, efficient code in Python, SQL and VBA to automate and transform data processes.
-- ☁️ **Cloud & IaC**: Managing cloud-based solutions with AWS and automating infrastructure deployment using Terraform. 
-- 🌐 **Agile & Global Collaboration**: Thriving in agile environments, contributing to cross-functional teams, and engaging in international projects.
+- 🔍 I analyze data, integrate systems, wrangle big data, and build BI solutions.
+- 💻 I'm all about Python, SQL, and a bunch of data tools.
+- 🌐 Committed to innovation and global collaboration.
+
+### Curious about my journey? 🧭
+
+Peek into [my CV](CV.md) for the full story.
 
 ### Stay Connected
 
