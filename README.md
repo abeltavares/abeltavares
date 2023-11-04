@@ -10,7 +10,7 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 
 ### Curious about my journey? 🧭
 
-Peek into [my CV](CV.md) for the full story.
+Peek into [my CV](https://abeltavares.github.io/CV.html) for the full story.
 
 ### Stay Connected
 
