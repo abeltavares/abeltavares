@@ -76,6 +76,6 @@
 - 🥋 Karate.
 - Volunteer work (Member of Conferência S. Vicente de Paulo de Sandim of Society of St. Vincent de Paul, 2019 - present).
 
-#### 💬 Ask me about  #data  #technology #business #finance
+#### 💬 Ask me about  #data  #technology #analytics #business #finance
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abeltavares/) | Check out my projects on [GitHub](https://github.com/abeltavares/).
