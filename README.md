@@ -2,7 +2,7 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 
 ---
 
-### What I Do
+## What I Do
 
 - 🔍 I analyze data, integrate systems, manage big data, and build BI solutions.
 - 💻 I'm all about Python, SQL, and a bunch of data tools.
@@ -12,7 +12,13 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 
 Peek into [my CV](https://abeltavares.github.io/CV.html) for the full story.
 
-### Stay Connected
+## Recent Blog Posts
+
+**[Decoding SQL: Types, Operations, and Real-world Applications](https://abeltavares.github.io/2023/11/10/decoding-sql.html)**
+
+Feel free to explore more on [DataEngine](https://abeltavares.github.io/).
+
+## Stay Connected
 
 - 📫 LinkedIn: [Abel Tavares](https://www.linkedin.com/in/abeltavares/)
 - ✉️ Need something? Shoot me an [email](mailto:abelst9@gmail.com).
@@ -26,6 +32,4 @@ Peek into [my CV](https://abeltavares.github.io/CV.html) for the full story.
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/abeltavares/count.svg)
-
-
 
