@@ -14,6 +14,8 @@ Peek into [my CV](https://abeltavares.github.io/CV.html) for the full story.
 
 ## Recent Blog Posts
 
+**[WSL 2: Introduction to Linux on Windows](https://abeltavares.github.io/2023/12/14/windows-wsl.html)**
+
 **[Decoding SQL: Types, Operations, and Real-world Applications](https://abeltavares.github.io/2023/11/10/decoding-sql.html)**
 
 Feel free to explore more on [DataEngine](https://abeltavares.github.io/).
