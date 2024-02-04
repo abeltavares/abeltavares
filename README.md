@@ -5,7 +5,7 @@ Welcome to my GitHub! I specialize in turning data into actionable business insi
 ## What I Do
 
 - 🔍 I analyze data, integrate systems, manage big data, and build software.
-- 💻 I'm all about Python, SQL, and a bunch of data tools.
+- 💻 I'm all about Python, SQL, and a bunch of data software tools.
 - 🌐 Committed to automation, innovation and global collaboration.
 
 ### Curious about my journey? 🧭
