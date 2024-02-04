@@ -1,4 +1,4 @@
-Welcome to my GitHub! I specialize in turning data into actionable business insights.
+Welcome to my GitHub!
 
 ---
 
