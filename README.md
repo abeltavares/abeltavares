@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
 ### Curious about my journey? 🧭
 
-Peek into [my CV](https://flowcv.com/resume/vvi3mmvlqw) for the full story.
+Peek into [my personal page](https://abeltavares.github.io/) for the full story.
 
 ## Stay Connected
 
