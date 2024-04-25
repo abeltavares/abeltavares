@@ -1,6 +1,6 @@
-Welcome to my GitHub!
+## Hey 👋🏽
 
----
+I'm an Engineer, really into coding and making technology work for business. 
 
 ## What I Do
 
@@ -10,7 +10,7 @@ Welcome to my GitHub!
 
 ### Curious about my journey? 🧭
 
-Peek into [my personal page](https://abeltavares.github.io/) for the full story.
+Peek into [my personal page](https://abeltavares.github.io/) for the story.
 
 ## Stay Connected
 
