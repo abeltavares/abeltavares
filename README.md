@@ -1,6 +1,6 @@
 ## Hey 👋🏽
 
-I'm an Engineer, really into coding and making technology work for business. 
+I'm an Engineer, really into coding and making technology work for business.
 
 ## What I Do
 
@@ -25,5 +25,5 @@ Peek into [my personal page](https://abeltavares.github.io/) for the story.
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/abeltavares/count.svg)
+`Dream big, work hard, stay focused`
 
