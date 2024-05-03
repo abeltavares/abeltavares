@@ -14,7 +14,7 @@ Peek into [my personal page](https://abeltavares.github.io/) for the story.
 
 ### Check out my Second Brain:
 
-Dive into Insights, technical walkthroughs, and my experiences with technology on [Abels's Place](https://abeltavares.hashnode.dev).
+Dive into Insights, technical guides, and my experiences with technology on [Abels's Place](https://abeltavares.hashnode.dev).
 
 ## Stay Connected
 
