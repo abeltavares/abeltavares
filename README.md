@@ -12,6 +12,10 @@ I'm an Engineer, really into coding and making technology work for business.
 
 Peek into [my personal page](https://abeltavares.github.io/) for the story.
 
+### Check out my Second Brain:
+
+Dive into Insights, technical walkthroughs, and my experiences with technology on [Abels's Place](https://abeltavares.hashnode.dev).
+
 ## Stay Connected
 
 - 📫 LinkedIn: [Abel Tavares](https://www.linkedin.com/in/abeltavares/)
