@@ -12,7 +12,7 @@ I'm an Engineer, really into coding and making technology work for business.
 
 Peek into [my personal page](https://abeltavares.github.io/) for the story.
 
-### Check out my Second Brain 🧠
+### Build, Blog and Learn 🔨
 
 Dive into Insights, technical guides, and my experiences with technology on [Abels's Blog](https://abeltavares.hashnode.dev).
 
